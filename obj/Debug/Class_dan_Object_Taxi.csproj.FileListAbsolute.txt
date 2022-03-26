@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Class_dan_Object_Taxi\bin\Debug\Class_dan_Object_Taxi.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Class_dan_Object_Taxi\bin\Debug\Class_dan_Object_Taxi.exe
+c:\users\user\documents\visual studio 2015\Projects\Class_dan_Object_Taxi\bin\Debug\Class_dan_Object_Taxi.pdb
+c:\users\user\documents\visual studio 2015\Projects\Class_dan_Object_Taxi\obj\Debug\Class_dan_Object_Taxi.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Class_dan_Object_Taxi\obj\Debug\Class_dan_Object_Taxi.exe
+c:\users\user\documents\visual studio 2015\Projects\Class_dan_Object_Taxi\obj\Debug\Class_dan_Object_Taxi.pdb
